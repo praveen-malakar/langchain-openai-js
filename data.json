@@ -1,0 +1,87 @@
+[
+  {
+    "car": {
+      "id": 8536589,
+      "vin": "WBABV13484JT20324",
+      "mileage": 94154,
+      "exteriorColor": "Blue",
+      "interiorColor": "Tan",
+      "year": 2004,
+      "make": "BMW",
+      "model": "3 Series",
+      "engine": "2.5L I6",
+      "transmission": "Automatic 5-Speed",
+      "photo": "https://cdn05.carsforsale.com/008d51c3ba2cce00efcb90f7c4ac7f8078/1280x960/2004-bmw-3-series-325ci-2dr-coupe.jpg",
+      "buyNowPrice": 7495,
+      "url": "https://bidacar.com/vehicle-details.cfm?vehicleId=8536589"
+    }
+  },
+  {
+    "car": {
+      "id": 3804749,
+      "vin": "WP0AB2A92HS124424",
+      "mileage": 15399,
+      "exteriorColor": "GT Silver",
+      "interiorColor": "Black",
+      "year": 2017,
+      "make": "Porsche",
+      "model": "911",
+      "engine": "3.0L",
+      "transmission": "7 speed manual",
+      "photo": "https://images.dealer.com/autodata/us/stockphoto-color/2017/USC70PRC015C0/U2.jpg",
+      "buyNowPrice": 114991,
+      "url": "https://bidacar.com/vehicle-details.cfm?vehicleId=3804749"
+    }
+  },
+  {
+    "car": {
+      "id": 8547471,
+      "vin": "4T1G11BK2PU090931",
+      "mileage": 31380,
+      "exteriorColor": "Celestial Silver",
+      "interiorColor": "Black",
+      "year": 2023,
+      "make": "Toyota",
+      "model": "Camry",
+      "engine": "2.5L",
+      "transmission": "Automatic",
+      "photo": "https://pictures.dealer.com/h/hometowntoyota/0301/555a2a5d2db64f646811bf34171319f0x.jpg",
+      "buyNowPrice": 25791,
+      "url": "https://bidacar.com/vehicle-details.cfm?vehicleId=8547471"
+    }
+  },
+  {
+    "car": {
+      "id": 3753495,
+      "vin": "ZFF68NHA8E0197117",
+      "mileage": 7765,
+      "exteriorColor": "Rosso Corsa",
+      "interiorColor": "Tan",
+      "year": 2014,
+      "make": "Ferrari",
+      "model": "458 Spider",
+      "engine": "4.5L",
+      "transmission": "7 speed automatic with auto-shift",
+      "photo": "https://pictures.dealer.com/m/mclarenscottsdaleaz/1276/0459aee06ad412737c43ec8ca1ff9274x.jpg",
+      "buyNowPrice": 214458,
+      "url": "https://bidacar.com/vehicle-details.cfm?vehicleId=3753495"
+    }
+  },
+  {
+    "car": {
+      "id": 9408728,
+      "vin": "3C4NJDDB0MT589033",
+      "mileage": 37820,
+      "exteriorColor": "Redline Pearlcoat",
+      "interiorColor": "TRAILHAWK 4DR 4X4",
+      "year": 2021,
+      "make": "Jeep",
+      "model": "Compass",
+      "engine": "",
+      "transmission": "Automatic",
+      "photo": "https://pictures.dealer.com/b/bradleychevroletofparkerinc/0564/d9390ddb4cfa83d5e899098d9a2e7f88x.jpg",
+      "buyNowPrice": 22000,
+      "url": "https://bidacar.com/vehicle-details.cfm?vehicleId=9408728"
+    }
+  }
+]
